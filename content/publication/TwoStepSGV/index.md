@@ -27,9 +27,6 @@ tags:
 
 featured: false
 
-links:
-- name: Agent Reward Bench
-  url: 'https://agent-reward-bench.github.io/'
 url_pdf: 'https://arxiv.org/pdf/2507.11662.pdf'
 url_code: 'https://github.com/mshalimay/mllm-verifiers-abias-sgv'
 url_dataset: 'https://drive.google.com/drive/folders/15nAWNkyo6Jhsxl6RZg8cFRS_6jP-Xr-H'
@@ -40,8 +37,9 @@ url_source: 'https://arxiv.org/abs/2507.11662'
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'Self-Grounded Verification overview'
   focal_point: ""
+  placement: 2
   preview_only: false
 
 projects:

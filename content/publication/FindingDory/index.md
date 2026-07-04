@@ -45,7 +45,7 @@ url_source: 'https://arxiv.org/abs/2506.15635'
 url_video: ''
 
 image:
-  caption: ''
+  caption: 'FindingDory benchmark overview'
   focal_point: ""
   preview_only: false
 

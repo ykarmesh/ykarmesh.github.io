@@ -60,7 +60,9 @@ featured: false
 # url_poster: ''
 # url_project: 'https://eai-vc.github.io/'
 # url_slides: ''
-# url_source: ''
+url_pdf: 'https://arxiv.org/pdf/2510.19732'
+url_code: 'https://github.com/gunshi/memo'
+url_source: 'https://arxiv.org/abs/2510.19732'
 # url_video: ''
 
 # Featured image
