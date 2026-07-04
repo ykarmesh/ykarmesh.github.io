@@ -6,6 +6,9 @@
 public/
 jsconfig.json
 
+# Folders
+content/deprecated_sections
+
 # Local Netlify folder
 .netlify
 

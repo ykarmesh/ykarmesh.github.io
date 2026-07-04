@@ -23,47 +23,64 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: AI Scientist Intern
+    company: Mistral AI
+    company_url: 'https://mistral.ai'
+    location: Palo Alto
+    date_start: '2025-05-01'
+    date_end: ''
+    description: |2-
+        * Initiated and led the Multimodal Reasoning effort, establishing end-to-end training, evaluation, and data pipelines.
+        * Developing rubric-guided reinforcement learning methods to reduce visual hallucinations and improve grounded reasoning in multimodal language models.
+
   - title: Intern, Technical Staff, AI
     company: Yutori
-    company_url: 'yutori.com'
+    company_url: 'https://yutori.com'
     location: San Francisco
-    date_start: '2024-08-19'
-    date_end: '2024-11-27'
+    date_start: '2024-08-01'
+    date_end: '2024-11-30'
     description: |2-
         * Developed deployment pipelines for web agents to operate on real websites while effectively avoiding bot detection.
         * Created data filtering pipeline and trained VLM-based agents for web navigation tasks.
 
   - title: AI Resident
-    company: Facebook AI Research
-    company_url: 'ai.facebook.com'
+    company: Fundamental AI Research (FAIR), Meta AI
+    company_url: 'https://ai.meta.com/research/'
     location: Menlo Park
-    date_start: '2021-08-30'
+    date_start: '2021-08-01'
     date_end: '2023-06-30'
     description: |2-
-        * Worked on self-supervised pretraining techniques for learning useful representations for embodied agents. 
-        * Released the HM3D-Semantics dataset and the Open-Vocabulary Mobile Manipulation benchmark based of Habitat Simulator.
-        * Organised multiple challenges on Embodied Navigation and Rearrangement in CVPR and NeurIPS.
+        * Researched self-supervised pretraining techniques for learning useful visual representations for embodied agents.
+        * Released the HM3D-Semantics (HM3DSem) dataset and the Open-Vocabulary Mobile Manipulation (OVMM) benchmark based on the Habitat Simulator.
 
-  - title: Robotics Engineer
-    company: isee
-    company_url: 'www.isee.ai'
-    location: Pittsburgh
+  - title: Senior Robotics Engineer
+    company: ISEE Inc.
+    company_url: 'https://www.isee.ai'
+    location: Boston
     date_start: '2020-07-01'
-    date_end: '2021-08-23'
+    date_end: '2021-08-31'
     description: |2-
         * Explored deep uncertainty estimation techniques for predicting the closed loop tracking performance of an autonomous vehicle controller. Estimated the collision probability of the AV with respect to obstacles in an occupancy grid.
         * Improved the trajectory optimization planner and robustified its collision checking. This led to an increased confidence in its performance and resulted in its deployment on the AV.
-        * Developed the speed planning module for safely achieving three-fold increase in the operating speed of the AV.        
 
   - title: Software Development Intern
-    company: isee
-    company_url: 'www.isee.ai'
+    company: ISEE Inc.
+    company_url: 'https://www.isee.ai'
     location: Boston
-    date_start: '2019-05-20'
-    date_end: '2019-08-10'
+    date_start: '2019-05-01'
+    date_end: '2019-08-31'
     description: |2-
-        * Built toolboxes to automate the system identification and calibration procedure of Isee’s vehicles.
-        * Researched and implemented various vehicle and tire models for control application in AVs.
+        * Built toolboxes to automate the system identification and calibration procedure of ISEE's vehicles.
+        * Researched and implemented various vehicle and tire models for control applications in autonomous vehicles.
+
+  - title: Intern, Autonomous Driving Team
+    company: MathWorks
+    company_url: 'https://www.mathworks.com'
+    location: Hyderabad
+    date_start: '2017-08-01'
+    date_end: '2017-11-30'
+    description: |2-
+        * Worked on improving the localization module of an autonomous vehicle by fusing ORB-SLAM output with GPS, IMU, and wheel odometry.
 
   # - title: Graduate Research Assistant
   #   company: Robotics Research Center, IIITH
