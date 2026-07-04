@@ -28,11 +28,6 @@
 #  url = "#projects"
 #  weight = 50
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 60
-
 # [[main]]
 #  name = "Contact"
 #  url = "#contact"
@@ -42,4 +37,3 @@
    name = "CV"
    url = "media/Karmesh_Yadav_CV.pdf"
    weight = 80
-
