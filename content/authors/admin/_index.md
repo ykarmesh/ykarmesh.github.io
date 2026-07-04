@@ -14,13 +14,13 @@ organizations:
   url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Embodied AI, Robotics and Reinforcement Learning.
+bio: My research interests include Multimodal Reasoning, Agents, and Embodied AI.
 
 # Interests to show in About widget
 interests:
+- Multimodal Reasoning
+- Agents
 - Embodied AI
-- Robot Learning
-- Reinforcement Learning
 
 # Education to show in About widget
 education:
@@ -70,8 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am Karmesh, a PhD student at Georgia Tech, advised by <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Dhruv Batra</a> and <a href="https://faculty.cc.gatech.edu/~zk15/" target="_blank">Prof. Zsolt Kira</a>. 
+Hi! I am Karmesh, a PhD student at Georgia Tech, advised by <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Dhruv Batra</a> and <a href="https://faculty.cc.gatech.edu/~zk15/" target="_blank">Prof. Zsolt Kira</a>. I am currently a research intern at Mistral AI, working on multimodal reasoning.
 
-During my PhD I am interested in creating better pretraining strategies for Embodied AI agents. Previously, I was an AI Resident at FAIR, working with the Habitat and Cortex team under the supervision of <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Dr. Oleksandr Maksymets</a> and <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Batra</a>. Before that, I worked as a Senior Robotics Engineer at ISEE, an autonomous vehicles startup working on automating yard trucks. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020. 
+My research focuses on building agents that can reason, remember, and act in complex environments, with an emphasis on multimodal reasoning and embodied AI. Previously, I was an AI Resident at FAIR, working with the Habitat and Cortex team under the supervision of <a href="https://www.maksymets.com/" target="_blank">Dr. Oleksandr Maksymets</a> and <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Batra</a>. Before that, I worked as a Senior Robotics Engineer at ISEE, an autonomous vehicles startup working on automating yard trucks. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020.
+
+I am looking for full-time roles starting this fall. Please reach out if you think there may be a good fit.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Karmesh_Yadav_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
