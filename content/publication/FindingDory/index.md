@@ -12,9 +12,9 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2026-10-01T00:00:00Z"
+date: "2026-07-01T00:00:00Z"
 doi: ""
-publishDate: "2026-10-01T00:00:00Z"
+publishDate: "2026-07-01T00:00:00Z"
 
 publication_types: ["1"]
 publication: In *European Conference on Computer Vision 2026*
