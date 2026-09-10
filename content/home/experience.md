@@ -28,7 +28,7 @@ experience:
     company_url: 'https://mistral.ai'
     location: Palo Alto
     date_start: '2025-05-01'
-    date_end: ''
+    date_end: '2026-07-31'
     description: |2-
         * Initiated and led the Multimodal Reasoning effort, establishing end-to-end training, evaluation, and data pipelines.
         * Developing rubric-guided reinforcement learning methods to reduce visual hallucinations and improve grounded reasoning in multimodal language models.

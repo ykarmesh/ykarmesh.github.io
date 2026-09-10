@@ -70,7 +70,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I am Karmesh, a PhD student at Georgia Tech, advised by <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Dhruv Batra</a> and <a href="https://faculty.cc.gatech.edu/~zk15/" target="_blank">Prof. Zsolt Kira</a>. I am currently a research intern at Mistral AI, working on multimodal reasoning.
+Hi! I am Karmesh, a PhD student at Georgia Tech, advised by <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Dhruv Batra</a> and <a href="https://faculty.cc.gatech.edu/~zk15/" target="_blank">Prof. Zsolt Kira</a>. I was a research intern at Mistral AI until July 2026, working on multimodal reasoning.
 
 My research focuses on building agents that can reason, remember, and act in complex environments, with an emphasis on multimodal reasoning and embodied AI. Previously, I was an AI Resident at FAIR, working with the Habitat and Cortex team under the supervision of <a href="https://www.maksymets.com/" target="_blank">Dr. Oleksandr Maksymets</a> and <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Prof. Batra</a>. Before that, I worked as a Senior Robotics Engineer at ISEE, an autonomous vehicles startup working on automating yard trucks. I completed my Masters in Robotics Systems Development (MRSD) at the CMU Robotics Institute in 2020.
 
